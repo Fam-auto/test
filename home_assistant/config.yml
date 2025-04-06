@@ -1,7 +1,7 @@
 name: Docker Wyze Bridge
 description: WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 slug: docker_wyze_bridge
-url: https://github.com/mrlt8/docker-wyze-bridge
+url: https://github.com/Fam-auto/test
 image: mrlt8/wyze-bridge
 version: 2.10.3
 stage: stable
@@ -13,6 +13,7 @@ startup: application
 boot: auto
 apparmor: false
 hassio_api: true
+host_network: true
 ports:
   1935/tcp: 1935
   8554/tcp: 8554
