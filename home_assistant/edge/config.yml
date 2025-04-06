@@ -1,7 +1,7 @@
 name: Docker Wyze Bridge (EDGE branch)
 description: EDGE build. Use the REBUILD button to pull latest image.
 slug: docker_wyze_bridge_edge
-url: "https://github.com/mrlt8/docker-wyze-bridge"
+url: "https://github.com/Fam-auto/test"
 version: edge
 stage: experimental
 arch:
@@ -12,6 +12,7 @@ startup: application
 boot: auto
 apparmor: false
 hassio_api: true
+host_network: true
 ports:
   1935/tcp: 1935
   8554/tcp: 8554
