@@ -8,6 +8,8 @@
 ![479shots_so](https://user-images.githubusercontent.com/67088095/224595527-05242f98-c4ab-4295-b9f5-07051ced1008.png)
 
 
+This is a clone of the original project, i'm attempting to make thing work on my instalstion. Do not us the fork if you dont rust strangers!!!!
+
 Create a local WebRTC, RTSP, RTMP, or HLS/Low-Latency HLS stream for most of your Wyze cameras including the outdoor, doorbell, and 2K cams. 
 
 No modifications, third-party, or special firmware required.
