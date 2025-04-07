@@ -1,1 +1,1 @@
-FROM mrlt8/wyze-bridge:latest-hw
+FROM Fam-auto/test:latest-hw
